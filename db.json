@@ -1,0 +1,109 @@
+{
+    "cows": [
+      {
+        "id": 1,
+        "name": "Bessie",
+        "breed": "Holstein",
+        "image":"https://media.istockphoto.com/id/1404182584/photo/cows-in-a-meadow-with-fresh-green-grass-and-buttercup-wildflowers.jpg?s=612x612&w=0&k=20&c=sLZop9LVDGqbqQsPh9wdbZVEJFs7y-ilhMOyfhOF3rQ=",
+        "age": 4
+      },
+      {
+        "id": 2,
+        "name": "Elsie",
+        "breed": "Jersey",
+        "image":"https://media.istockphoto.com/id/1248900268/photo/one-old-fashioned-cute-red-brown-dairy-cow-standing-head-up-and-motherly-in-a-field-with-full.jpg?s=612x612&w=0&k=20&c=EKXBjaieUj1mCGMVTF3c8TFz7eXKjZpKa0lWYWpjlaA=",
+        "age": 5
+      },
+      {
+        "id": 3,
+        "name": "Buttercup",
+        "breed": "Guernsey",
+        "image":"https://media.istockphoto.com/id/494348871/photo/friendly-brown-and-white-guernsey-cows-in-field-at-farm.jpg?s=612x612&w=0&k=20&c=_BY-Te9nf06PQ2OoZ_nQf8qwS1BM4xoIofpTpyHNKfc=",
+        "age": 3
+      },
+      {
+        "id": 4,
+        "name": "Daisy",
+        "breed": "Ayrshire",
+        "image":"https://media.istockphoto.com/id/184289120/photo/ayrshire-dairy-cow-standing-in-a-field-in-rural-scotland.jpg?s=612x612&w=0&k=20&c=XFOMbJ4phrxoC7kOaX-N-UPC73XrS0_rhi6Zah_vd00=",
+        "age": 4
+      }
+    ],
+    "milkProduction": [
+      {
+        "id": 1,
+        "cowId": 1,
+        "date": "2024-07-20",
+        "quantity": 20
+      },
+      {
+        "id": 2,
+        "cowId": 2,
+        "date": "2024-07-20",
+        "quantity": 18
+      },
+      {
+        "id": 3,
+        "cowId": 3,
+        "date": "2024-07-20",
+        "quantity": 22
+      },
+      {
+        "id": 4,
+        "cowId": 4,
+        "date": "2024-07-20",
+        "quantity": 19
+      }
+    ],
+    "inputValues": [
+      {
+        "id": 1,
+        "cowId": 1,
+        "inputType": "Feed",
+        "value": 50
+      },
+      {
+        "id": 2,
+        "cowId": 2,
+        "inputType": "Feed",
+        "value": 45
+      },
+      {
+        "id": 3,
+        "cowId": 3,
+        "inputType": "Feed",
+        "value": 48
+      },
+      {
+        "id": 4,
+        "cowId": 4,
+        "inputType": "Feed",
+        "value": 47
+      },
+      {
+        "id": 5,
+        "cowId": 1,
+        "inputType": "Vet",
+        "value": 20
+      },
+      {
+        "id": 6,
+        "cowId": 2,
+        "inputType": "Vet",
+        "value": 25
+      },
+      {
+        "id": 7,
+        "cowId": 3,
+        "inputType": "Vet",
+        "value": 22
+      },
+      {
+        "id": 8,
+        "cowId": 4,
+        "inputType": "Vet",
+        "value": 23
+      }
+    ]
+  }
+  
